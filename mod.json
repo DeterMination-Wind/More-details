@@ -1,0 +1,9 @@
+{
+    "name": "[More-details]更多描述",
+    "displayName": "More-details更多描述",
+    "author": "Determination",
+    "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明",
+    "version": "1.0",
+    "hidden": true,
+    "minGameVersion": 151
+}
